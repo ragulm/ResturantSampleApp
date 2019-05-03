@@ -38,7 +38,11 @@ class ViewController: UIViewController,ViewControllerProtocol,UITableViewDelegat
     
     //hlooo
     
+<<<<<<< HEAD
     func rokyMethodtestSecond(error: NSError) {
+=======
+    func rokyMethodtestThird(error: NSError) {
+>>>>>>> no message
         print("Error")
     }
     

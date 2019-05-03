@@ -30,6 +30,10 @@ class ViewController: UIViewController,ViewControllerProtocol,UITableViewDelegat
         print("Error")
     }
     
+    func rokyMethodNeww(error: NSError) {
+        print("Error")
+    }
+    
     func handleErrors(error: NSError) {
         print("Error")
     }

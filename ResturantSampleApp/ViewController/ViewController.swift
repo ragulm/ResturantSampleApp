@@ -40,10 +40,6 @@ class ViewController: UIViewController,ViewControllerProtocol,UITableViewDelegat
     
 
     func rokyMethodtestThird(error: NSError) {
-<<<<<<< HEAD
->>>>>>> no message
-=======
->>>>>>> ssss
         print("Error")
     }
     

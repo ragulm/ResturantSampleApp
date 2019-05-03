@@ -25,6 +25,8 @@ class ViewController: UIViewController,ViewControllerProtocol,UITableViewDelegat
         variantDetailsDelegate.getVariantDetail()
     }
     
+    //hlooo
+    
     
     func rokyMethod(error: NSError) {
         print("Error")

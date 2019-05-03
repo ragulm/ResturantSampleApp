@@ -23,10 +23,25 @@ class ViewController: UIViewController,ViewControllerProtocol,UITableViewDelegat
         self.tblMainHolder.separatorStyle = .none
         variantDetailsDelegate.viewController = self
         variantDetailsDelegate.getVariantDetail()
+        
+        
+        
+        
+        variantDetailsDelegate.viewController = self
+        variantDetailsDelegate.getVariantDetail()
+        
+        variantDetailsDelegate.viewController = self
+        variantDetailsDelegate.getVariantDetail()
+        variantDetailsDelegate.viewController = self
+        variantDetailsDelegate.getVariantDetail()
     }
     
     //hlooo
     
+    
+    func rokyMethodtest(error: NSError) {
+        print("Error")
+    }
     
     func rokyMethod(error: NSError) {
         print("Error")

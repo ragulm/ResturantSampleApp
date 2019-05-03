@@ -38,6 +38,10 @@ class ViewController: UIViewController,ViewControllerProtocol,UITableViewDelegat
     
     //hlooo
     
+    func rokyMethodtestFirst(error: NSError) {
+        print("Error")
+    }
+    
     
     func rokyMethodtest(error: NSError) {
         print("Error")

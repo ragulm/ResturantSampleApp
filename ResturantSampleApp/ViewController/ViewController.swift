@@ -42,6 +42,10 @@ class ViewController: UIViewController,ViewControllerProtocol,UITableViewDelegat
         print("one")
     }
     
+    func one2() {
+        print("one2")
+    }
+    
     
     
     

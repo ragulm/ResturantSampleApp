@@ -38,6 +38,7 @@ class ViewController: UIViewController,ViewControllerProtocol,UITableViewDelegat
     
     //hlooo
     
+<<<<<<< HEAD
     
     func two() {
         print("two")
@@ -47,6 +48,20 @@ class ViewController: UIViewController,ViewControllerProtocol,UITableViewDelegat
         print("two2")
     }
     
+=======
+    func one() {
+        print("one")
+    }
+    
+    func one2() {
+        print("one2")
+    }
+    
+    
+    
+    
+    
+>>>>>>> one
 
     func rokyMethodtestThird(error: NSError) {
         print("Error")

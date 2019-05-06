@@ -43,6 +43,10 @@ class ViewController: UIViewController,ViewControllerProtocol,UITableViewDelegat
         print("two")
     }
     
+    func two2() {
+        print("two2")
+    }
+    
 
     func rokyMethodtestThird(error: NSError) {
         print("Error")
